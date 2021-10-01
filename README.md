@@ -1,5 +1,6 @@
 <!-- ### Hi there 👋 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Franklin-Siqueira)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 
 <!--
 **Franklin-Siqueira/Franklin-Siqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
