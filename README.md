@@ -1,6 +1,12 @@
 <!-- ### Hi there 👋 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Franklin-Siqueira)
+ß
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Franklin-Siqueira&theme=blue-green)](https://github.com/Franklin-Siqueira/github-readme-stats)
+
+[![Franklin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin-Siqueira&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Franklin-Siqueira/Franklin-Siqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
